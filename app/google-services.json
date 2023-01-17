@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040704162194",
+    "firebase_url": "https://btu-itinder-default-rtdb.firebaseio.com",
+    "project_id": "btu-itinder",
+    "storage_bucket": "btu-itinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040704162194:android:1669111946f53d7d40594b",
+        "android_client_info": {
+          "package_name": "com.example.finaluri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040704162194-14v9rdpgdfj44j2n4t3miuc410b4ii1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHf1-ARUCN6O2nh-e_kB4famP6_bpsvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040704162194-14v9rdpgdfj44j2n4t3miuc410b4ii1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
